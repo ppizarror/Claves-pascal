@@ -4,3 +4,6 @@
 
 # Archivos de dev-pascal
 ppas.bat
+
+# Archivos de claves guardadas
+Data/*
